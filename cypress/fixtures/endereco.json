@@ -1,0 +1,54 @@
+[
+	{
+		"nome": "Cláudia Letícia",
+		"sobrenome": "Antônia Oliveira",
+    "empresa":"perfect",
+    "pais":"Brasil",
+		"endereco": "Rua Marechal Mallet",
+		"numero": 832,
+		"cidade": "Natal",
+		"estado": "Rio Grande do Norte",
+		"cep": "59015-150",
+    "telefone": "8499440-6373",
+    "email": "claudia_oliveira@castromobile.com.br"
+	},
+  {
+		"nome": "Rafael",
+		"sobrenome": "Souza",
+    "empresa":"linkedin",
+    "pais":"Brasil",
+		"endereco": "Rua Marechal Mallet",
+		"numero": 832,
+		"cidade": "Natal",
+		"estado": "Rio Grande do Norte",
+		"cep": "59015-150",
+    "telefone": "8499440-6373",
+    "email": "Rafael@castromobile.com.br"
+	},
+  {
+		"nome": "Guilherme ",
+		"sobrenome": "Pereira",
+    "empresa":"employer",
+    "pais":"Brasil",
+		"endereco": "Rua Marechal Mallet",
+		"numero": 832,
+		"cidade": "Natal",
+		"estado": "Rio Grande do Norte",
+		"cep": "59015-150",
+    "telefone": "8499440-6373",
+    "email": "Guilherme@castromobile.com.br"
+	},
+  {
+		"nome": "Gustavo",
+		"sobrenome": "Guimarães",
+    "empresa":"Unina",
+    "pais":"Brasil",
+		"endereco": "Rua Marechal Mallet",
+		"numero": 832,
+		"cidade": "Natal",
+		"estado": "Rio Grande do Norte",
+		"cep": "59015-150",
+    "telefone": "8499440-6373",
+    "email": "Gustavo@castromobile.com.br"
+	}
+]
